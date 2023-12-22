@@ -1,0 +1,210 @@
+n072.hpc             Thu Dec 21 18:22:06 2023  470.82.01
+[0] NVIDIA A10       | 31'C,   0 % |     0 / 22731 MB |
+[1] NVIDIA A10       | 32'C,   0 % |     0 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     0 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     0 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:07 2023  470.82.01
+[0] NVIDIA A10       | 31'C,   0 % |     0 / 22731 MB |
+[1] NVIDIA A10       | 32'C,   0 % |     0 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     0 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     0 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:08 2023  470.82.01
+[0] NVIDIA A10       | 31'C,   0 % |     0 / 22731 MB |
+[1] NVIDIA A10       | 32'C,   0 % |     0 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     0 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     0 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:09 2023  470.82.01
+[0] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 33'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:10 2023  470.82.01
+[0] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 33'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:11 2023  470.82.01
+[0] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 33'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:12 2023  470.82.01
+[0] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:13 2023  470.82.01
+[0] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:14 2023  470.82.01
+[0] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:15 2023  470.82.01
+[0] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:16 2023  470.82.01
+[0] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:17 2023  470.82.01
+[0] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:18 2023  470.82.01
+[0] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:19 2023  470.82.01
+[0] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:20 2023  470.82.01
+[0] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:21 2023  470.82.01
+[0] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:22 2023  470.82.01
+[0] NVIDIA A10       | 33'C,  15 % |  1745 / 22731 MB | ais02(577M) ais02(589M) ais02(577M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:23 2023  470.82.01
+[0] NVIDIA A10       | 33'C,   5 % |  3809 / 22731 MB | ais02(1269M) ais02(1269M) ais02(1269M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:24 2023  470.82.01
+[0] NVIDIA A10       | 34'C,  12 % |  4421 / 22731 MB | ais02(1473M) ais02(1473M) ais02(1473M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:25 2023  470.82.01
+[0] NVIDIA A10       | 34'C,  16 % |  5153 / 22731 MB | ais02(1717M) ais02(1717M) ais02(1717M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:26 2023  470.82.01
+[0] NVIDIA A10       | 34'C,  19 % |  6216 / 22731 MB | ais02(1941M) ais02(1939M) ais02(1941M) ais02(393M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:27 2023  470.82.01
+[0] NVIDIA A10       | 34'C,  21 % |  7786 / 22731 MB | ais02(2209M) ais02(2209M) ais02(2209M) ais02(1157M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:28 2023  470.82.01
+[0] NVIDIA A10       | 35'C,  18 % |  8548 / 22731 MB | ais02(2389M) ais02(2387M) ais02(2389M) ais02(1381M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:29 2023  470.82.01
+[0] NVIDIA A10       | 35'C,   8 % |  9492 / 22731 MB | ais02(2613M) ais02(2635M) ais02(2635M) ais02(1607M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:30 2023  470.82.01
+[0] NVIDIA A10       | 35'C,  19 % | 10306 / 22731 MB | ais02(2817M) ais02(2817M) ais02(2817M) ais02(1853M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:31 2023  470.82.01
+[0] NVIDIA A10       | 35'C,  22 % | 11306 / 22731 MB | ais02(3061M) ais02(3061M) ais02(3063M) ais02(2119M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:32 2023  470.82.01
+[0] NVIDIA A10       | 36'C,  16 % | 12224 / 22731 MB | ais02(3285M) ais02(3285M) ais02(3287M) ais02(2365M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:33 2023  470.82.01
+[0] NVIDIA A10       | 36'C,  21 % | 13060 / 22731 MB | ais02(3511M) ais02(3511M) ais02(3511M) ais02(2527M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:34 2023  470.82.01
+[0] NVIDIA A10       | 36'C,  19 % | 14018 / 22731 MB | ais02(3735M) ais02(3733M) ais02(3735M) ais02(2813M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:35 2023  470.82.01
+[0] NVIDIA A10       | 36'C,  13 % | 14960 / 22731 MB | ais02(3981M) ais02(3959M) ais02(3981M) ais02(3037M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:36 2023  470.82.01
+[0] NVIDIA A10       | 36'C,  14 % | 15940 / 22731 MB | ais02(4161M) ais02(4247M) ais02(4247M) ais02(3283M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:37 2023  470.82.01
+[0] NVIDIA A10       | 36'C,  21 % | 16712 / 22731 MB | ais02(4407M) ais02(4409M) ais02(4409M) ais02(3485M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:38 2023  470.82.01
+[0] NVIDIA A10       | 36'C,  19 % | 17604 / 22731 MB | ais02(4631M) ais02(4631M) ais02(4631M) ais02(3709M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:39 2023  470.82.01
+[0] NVIDIA A10       | 36'C,   3 % | 18928 / 22731 MB | ais02(5025M) ais02(5025M) ais02(5025M) ais02(3851M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:40 2023  470.82.01
+[0] NVIDIA A10       | 37'C,   5 % | 19236 / 22731 MB | ais02(5025M) ais02(5025M) ais02(5025M) ais02(4159M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:41 2023  470.82.01
+[0] NVIDIA A10       | 37'C,   4 % | 19480 / 22731 MB | ais02(5025M) ais02(5025M) ais02(5025M) ais02(4403M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:42 2023  470.82.01
+[0] NVIDIA A10       | 37'C,   3 % | 19704 / 22731 MB | ais02(5025M) ais02(5025M) ais02(5025M) ais02(4627M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:43 2023  470.82.01
+[0] NVIDIA A10       | 37'C,   0 % | 20070 / 22731 MB | ais02(5025M) ais02(5025M) ais02(5025M) ais02(4993M)
+[1] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:44 2023  470.82.01
+[0] NVIDIA A10       | 37'C,   8 % | 16903 / 22731 MB | ais02(5387M) ais02(6127M) ais02(5387M)
+[1] NVIDIA A10       | 33'C,   5 % |   341 / 22731 MB | ais02(339M)
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:45 2023  470.82.01
+[0] NVIDIA A10       | 37'C,   5 % |  5767 / 22731 MB | ais02(5765M)
+[1] NVIDIA A10       | 34'C,   0 % |   621 / 22731 MB | ais02(619M)
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:46 2023  470.82.01
+[0] NVIDIA A10       | 37'C,   0 % |  5767 / 22731 MB | ais02(5765M)
+[1] NVIDIA A10       | 34'C,   0 % |   621 / 22731 MB | ais02(619M)
+[2] NVIDIA A10       | 31'C,   0 % |     2 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     2 / 22731 MB |
+n072.hpc             Thu Dec 21 18:22:47 2023  470.82.01
+[0] NVIDIA A10       | 38'C,  36 % |     0 / 22731 MB |
+[1] NVIDIA A10       | 34'C,   0 % |     0 / 22731 MB |
+[2] NVIDIA A10       | 31'C,   0 % |     0 / 22731 MB |
+[3] NVIDIA A10       | 32'C,   0 % |     0 / 22731 MB |

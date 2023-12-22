@@ -1,0 +1,874 @@
+/var/spool/slurm/job11006805/slurm_script: line 18: SLURM_JOB_ID: command not found
+[W socket.cpp:401] [c10d] The server socket cannot be initialized on [::]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/ppo_config.py:141: UserWarning: The `optimize_cuda_cache` arguement will be deprecated soon, please use `optimize_device_cache` instead.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:31,  2.23s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:31,  2.22s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:32,  2.29s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:32,  2.29s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:21,  1.62s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.61s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:21,  1.64s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:21,  1.64s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.41s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:31,  2.25s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:32,  2.30s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:32,  2.31s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:29,  2.14s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:21,  1.65s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:21,  1.66s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:21,  1.67s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.60s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:17,  1.45s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:17Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:30,  2.18s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:30,  2.19s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:30,  2.19s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.60s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.60s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.60s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.40s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.40s/it]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.40s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<0Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:30,  2.17s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:30,  2.19s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:31,  2.24s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.60s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.60s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:21,  1.62s/it]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.40s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.40s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.41s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<0Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:29,  2.14s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:30,  2.20s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:30,  2.20s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.58s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.60s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.60s/it]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.39s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.40s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.41s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<0Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:29,  2.12s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:30,  2.19s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:30,  2.20s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.58s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.61s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.62s/it]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.40s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:17,  1.42s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:17,  1.43s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<0Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:29,  2.10s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:29,  2.14s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.56s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.56s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.37s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.36s/it]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.30s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.30s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:29,  2.12s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<0Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:29,  2.08s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:30,  2.19s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.54s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.58s/it]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.36s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.38s/it]Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.29s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.31s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:29,  2.12s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [0,  1.41s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:17,  1.42s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:17,  1.42s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.31s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.31s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.31s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.32s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.26s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.26s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.26s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.27s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:10,  1.22s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:10,  1.22s/it]Loading checkpoint shards:  40%|███�,  1.45s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:17,  1.45s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.41s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.35s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.35s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.36s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.32s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:07<00:13,  1.31s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:07<00:13,  1.32s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:07<00:13,  1.32s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.28s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.26s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.26s/it]Loading checkpoint shards:  40%|███�0:14,  1.31s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.31s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.32s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:29,  2.08s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.27s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.27s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.28s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.54s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.24s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.24s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.25s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.35s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.23s/it]Loading checkpoint shards:  47%|██�0:14,  1.32s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.32s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.32s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:29,  2.14s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.28s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.29s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.28s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.61s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.25s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.25s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.24s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:17,  1.42s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.24s/it]Loading checkpoint shards:  47%|██�0:14,  1.31s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.32s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.32s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:30,  2.19s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.27s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.27s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.28s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.61s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.24s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.24s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.24s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.41s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.22s/it]Loading checkpoint shards:  47%|██�0:14,  1.32s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.33s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.33s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:29,  2.14s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.28s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.29s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:07<00:12,  1.29s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:21,  1.62s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.23s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.24s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.26s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:17,  1.42s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.22s/it]Loading checkpoint shards:  47%|██�0:30,  2.15s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.27s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.27s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.59s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.59s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.25s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.26s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.40s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.40s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.25s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.25s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.32s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.32s/it]Loading checkpoint shards:  53%|██�0:06<00:12,  1.25s/it]Loading checkpoint shards:   7%|▋         | 1/15 [00:02<00:29,  2.11s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.26s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.58s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:07<00:10,  1.22s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.22s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [00:03<00:20,  1.57s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.38s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.21s/it]Loading checkpoint shards:  20%|██        | 3/15 [00:04<00:16,  1.38s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.21s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.29s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.19s/it]Loading checkpoint shards:  27%|�      | 6/15 [00:08<00:11,  1.22s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.23s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.21s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.22s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.21s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.22s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.18s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.20s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.19s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.20s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.19s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.19s/it]Loading checkpoint shards:  60%|██████ �      | 6/15 [00:08<00:11,  1.27s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.23s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.23s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.24s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:10,  1.25s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.22s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.20s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.23s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.23s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.20s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.18s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.21s/it]Loading checkpoint shards:  60%|██████ ��█▋     | 7/15 [00:09<00:09,  1.24s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.24s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:13,  1.27s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.21s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.22s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.21s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.24s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.20s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.20s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.20s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:07<00:10,  1.21s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:05,  1.20s/it]Loading checkpoint shards:  67%|████▖�█▋     | 7/15 [00:09<00:09,  1.24s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.24s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.32s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.21s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.22s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.24s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.28s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.20s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.20s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.23s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.24s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:06,  1.20s/it]Loading checkpoint shards:  67%|████▖�█▋     | 7/15 [00:09<00:09,  1.22s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.23s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.33s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.20s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.20s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.21s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:07<00:12,  1.29s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.19s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.19s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.20s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.25s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:05,  1.18s/it]Loading checkpoint shards:  67%|████▖�█▋     | 7/15 [00:09<00:09,  1.23s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.23s/it]Loading checkpoint shards:  27%|██▋       | 4/15 [00:05<00:14,  1.32s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.21s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.21s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.21s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.27s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.20s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.20s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.20s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.23s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:05,  1.20s/it]Loading checkpoint shards:  67%|████▖�██▎    | 8/15 [00:10<00:08,  1.23s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.25s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.28s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.28s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.21s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.24s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.24s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:08<00:11,  1.25s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:05,  1.20s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:06,  1.23s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.24s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.24s/it]Loading checkpoint shards:  73%|██████▋       | 4/15 [00:05<00:14,  1.29s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.19s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.25s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.18s/it]Loading checkpoint shards:  33%|███▎      | 5/15 [00:06<00:12,  1.25s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.18s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:07<00:10,  1.20s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:05,  1.18s/it]Loading checkpoint shards:  40%|████      | 6/15 [00:07<00:10,  1.22s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:05,  1.18s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.19s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:13<00:04,  1.16s/it]Loading checkpoint shards:  73%|██   | 9/15 [00:11<00:07,  1.19s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.19s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:05,  1.19s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:05,  1.20s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:06,  1.20s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:05,  1.19s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:13<00:04,  1.17s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:13<00:04,  1.18s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:13<00:04,  1.19s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:13<00:04,  1.17s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.18s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.18s/it]L   | 9/15 [00:11<00:07,  1.21s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.19s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:05,  1.19s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:13<00:06,  1.21s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:13<00:06,  1.21s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:05,  1.19s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:14<00:04,  1.17s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:14<00:04,  1.19s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:14<00:04,  1.19s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:13<00:04,  1.17s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.17s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.19s/it]L�█▋   | 10/15 [00:12<00:05,  1.19s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:06,  1.20s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.24s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:13<00:04,  1.17s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:13<00:04,  1.17s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:14<00:04,  1.19s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.23s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.17s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.17s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.20s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.16s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.21s/i�█▋   | 10/15 [00:12<00:05,  1.19s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:06,  1.20s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.21s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:14<00:04,  1.19s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:14<00:04,  1.19s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:14<00:04,  1.19s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.20s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.19s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.19s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.20s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.18s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.19s/i�█▋   | 10/15 [00:12<00:06,  1.20s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:13<00:06,  1.22s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.24s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:14<00:04,  1.19s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:14<00:04,  1.19s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:14<00:04,  1.20s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.21s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.19s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.19s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.20s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.20s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.18s/i�█▋   | 10/15 [00:12<00:06,  1.20s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:05,  1.20s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.22s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:14<00:04,  1.19s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:13<00:04,  1.19s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:14<00:04,  1.18s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.20s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.19s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.20s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.19s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.19s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.19s/i█████▎  | 11/15 [00:13<00:04,  1.16s/it]Loading checkpoint shards:  47%|████▋     | 7/15 [00:09<00:09,  1.20s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.18s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:14<00:03,  1.17s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:14<00:03,  1.17s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.19s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.17s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.17s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.18s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.17s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:05,  1.17s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:16<00:01,  1��██▎  | 11/15 [00:13<00:04,  1.19s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:14<00:04,  1.21s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.22s/it]Loading checkpoint shards:  53%|█████▎    | 8/15 [00:10<00:08,  1.23s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.19s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.21s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.21s/it]Loading checkpoint shards:  60%|██████    | 9/15 [00:11<00:07,  1.21s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.19s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.21s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.10s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:05,  1t]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.17s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.19s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.07s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.09s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.11s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:06,  1.21s/it]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.12it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.17s/it]
+.09s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.09s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:05,  1.18s/it]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.10it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.17s/it]
+.20s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.12s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:06,  1.21s/it]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.09it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.18s/it]
+oading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.17s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.20s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.16s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.17s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.17s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.20s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.08s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.09s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.09s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.11s/it]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.11it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.17s/it]
+Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.11it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.17s/it]
+Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.10it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.17s/it]
+t]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.18s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.19s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:05,  1.19s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.10s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.10s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.12s/it]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.10it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.18s/it]
+Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.09it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.19s/it]
+Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.11it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.18s/it]
+t]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.20s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.19s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.09s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:06,  1.20s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.12s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.11s/it]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.09it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.19s/it]
+Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.07it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.18s/it]
+oading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.21s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.21s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.17s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.18s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.20s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.20s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.09s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.10s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.11s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.13s/it]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.11it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.19s/it]
+Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.07it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.19s/it]
+Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.08it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.20s/it]
+Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.08it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.19s/it]
+Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.07it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.19s/it]
+t]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.19s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.19s/it]Loading checkpoint shards:  67%|██████▋   | 10/15 [00:12<00:05,  1.20s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.11s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.10s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.11s/it]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.09it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.18s/it]
+Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.09it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.20s/it]
+Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.09it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.19s/it]
+Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.08it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.19s/it]
+Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.09it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.19s/it]
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.09it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.18s/it]
+Loading checkpoint shards: 100%|██████████| 15/15 [00:18<00:00,  1.09it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:18<00:00,  1.20s/it]
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+Loading checkpoint shards:  73%|███████▎  | 11/15 [00:13<00:04,  1.15s/it][W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+Loading checkpoint shards: 100%|██████████| 15/15 [00:18<00:00,  1.07it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:18<00:00,  1.21s/it]
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+Loading checkpoint shards:  73%|███████▎  | 11/15 [00:13<00:04,  1.16s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:14<00:03,  1.15s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:14<00:03,  1.16s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:15<00:02,  1.14s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.16s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:16<00:01,  1.07s/it]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.13it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.15s/it]
+Loading checkpoint shards:  73%|███████▎  | 11/15 [00:13<00:04,  1.18s/it]Loading checkpoint shards:  73%|███████▎  | 11/15 [00:14<00:04,  1.19s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.17s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.18s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.16s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.18s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.08s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.10s/it]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.12it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.18s/it]
+Loading checkpoint shards:  93%|█████████▎| 14/15 [00:16<00:01,  1.08s/it][W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+Loading checkpoint shards:  73%|███████▎  | 11/15 [00:13<00:04,  1.18s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:14<00:03,  1.18s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.18s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.11s/it]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.09it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.17s/it]
+Loading checkpoint shards:  73%|███████▎  | 11/15 [00:14<00:04,  1.18s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.18s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.16s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.08s/it]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.12it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.18s/it]
+Loading checkpoint shards:  73%|███████▎  | 11/15 [00:13<00:04,  1.18s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.20s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.19s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.10s/it]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.09it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.18s/it]
+Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.10it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.19s/it]
+Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.12it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.16s/it]
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+Loading checkpoint shards:  73%|███████▎  | 11/15 [00:14<00:04,  1.20s/it]Loading checkpoint shards:  80%|████████  | 12/15 [00:15<00:03,  1.19s/it]Loading checkpoint shards:  87%|████████▋ | 13/15 [00:16<00:02,  1.19s/it]Loading checkpoint shards:  93%|█████████▎| 14/15 [00:17<00:01,  1.09s/it]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.11it/s]Loading checkpoint shards: 100%|██████████| 15/15 [00:17<00:00,  1.19s/it]
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+[W socket.cpp:558] [c10d] The client socket cannot be initialized to connect to [n068.hpc]:1479 (errno: 97 - Address family not supported by protocol).
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 75, in <module>
+    fine_tuning = SFTTrainer(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 176, in __init__
+    model = prepare_model_for_kbit_training(model, **preprare_model_kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/peft/utils/other.py", line 103, in prepare_model_for_kbit_training
+    param.data = param.data.to(torch.float32)
+RuntimeError: CUDA out of memory. Tried to allocate 724.00 MiB (GPU 0; 22.20 GiB total capacity; 4.17 GiB already allocated; 457.12 MiB free; 4.30 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 75, in <module>
+    fine_tuning = SFTTrainer(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 176, in __init__
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 75, in <module>
+    model = prepare_model_for_kbit_training(model, **preprare_model_kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/peft/utils/other.py", line 103, in prepare_model_for_kbit_training
+    fine_tuning = SFTTrainer(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 176, in __init__
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 75, in <module>
+    param.data = param.data.to(torch.float32)
+RuntimeError: CUDA out of memory. Tried to allocate 724.00 MiB (GPU 0; 22.20 GiB total capacity; 4.17 GiB already allocated; 457.12 MiB free; 4.30 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+    fine_tuning = SFTTrainer(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 176, in __init__
+    model = prepare_model_for_kbit_training(model, **preprare_model_kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/peft/utils/other.py", line 103, in prepare_model_for_kbit_training
+    model = prepare_model_for_kbit_training(model, **preprare_model_kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/peft/utils/other.py", line 103, in prepare_model_for_kbit_training
+    param.data = param.data.to(torch.float32)
+RuntimeError: CUDA out of memory. Tried to allocate 724.00 MiB (GPU 0; 22.20 GiB total capacity; 4.17 GiB already allocated; 457.12 MiB free; 4.30 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+    param.data = param.data.to(torch.float32)
+RuntimeError: CUDA out of memory. Tried to allocate 724.00 MiB (GPU 0; 22.20 GiB total capacity; 4.17 GiB already allocated; 457.12 MiB free; 4.30 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 75, in <module>
+    fine_tuning = SFTTrainer(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 176, in __init__
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 75, in <module>
+    fine_tuning = SFTTrainer(
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 75, in <module>
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 176, in __init__
+    model = prepare_model_for_kbit_training(model, **preprare_model_kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/peft/utils/other.py", line 103, in prepare_model_for_kbit_training
+    fine_tuning = SFTTrainer(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 176, in __init__
+    model = prepare_model_for_kbit_training(model, **preprare_model_kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/peft/utils/other.py", line 103, in prepare_model_for_kbit_training
+    param.data = param.data.to(torch.float32)
+Traceback (most recent call last):
+RuntimeError: CUDA out of memory. Tried to allocate 724.00 MiB (GPU 0; 22.20 GiB total capacity; 4.17 GiB already allocated; 95.12 MiB free; 4.30 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+  File "/home1/ais02/LoRA/train.py", line 75, in <module>
+    fine_tuning = SFTTrainer(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 176, in __init__
+    param.data = param.data.to(torch.float32)
+RuntimeError: CUDA out of memory. Tried to allocate 724.00 MiB (GPU 0; 22.20 GiB total capacity; 4.17 GiB already allocated; 93.12 MiB free; 4.30 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+    model = prepare_model_for_kbit_training(model, **preprare_model_kwargs)
+    model = prepare_model_for_kbit_training(model, **preprare_model_kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/peft/utils/other.py", line 103, in prepare_model_for_kbit_training
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/peft/utils/other.py", line 103, in prepare_model_for_kbit_training
+    param.data = param.data.to(torch.float32)
+RuntimeError: CUDA out of memory. Tried to allocate 724.00 MiB (GPU 0; 22.20 GiB total capacity; 4.52 GiB already allocated; 93.12 MiB free; 4.66 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+    param.data = param.data.to(torch.float32)
+RuntimeError: CUDA out of memory. Tried to allocate 724.00 MiB (GPU 0; 22.20 GiB total capacity; 4.17 GiB already allocated; 95.12 MiB free; 4.30 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 75, in <module>
+    fine_tuning = SFTTrainer(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 176, in __init__
+    model = prepare_model_for_kbit_training(model, **preprare_model_kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/peft/utils/other.py", line 103, in prepare_model_for_kbit_training
+    param.data = param.data.to(torch.float32)
+RuntimeError: CUDA out of memory. Tried to allocate 724.00 MiB (GPU 0; 22.20 GiB total capacity; 4.52 GiB already allocated; 93.12 MiB free; 4.66 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 75, in <module>
+    fine_tuning = SFTTrainer(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 176, in __init__
+Traceback (most recent call last):
+    model = prepare_model_for_kbit_training(model, **preprare_model_kwargs)
+  File "/home1/ais02/LoRA/train.py", line 75, in <module>
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/peft/utils/other.py", line 103, in prepare_model_for_kbit_training
+    fine_tuning = SFTTrainer(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 176, in __init__
+    model = prepare_model_for_kbit_training(model, **preprare_model_kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/peft/utils/other.py", line 103, in prepare_model_for_kbit_training
+    param.data = param.data.to(torch.float32)
+RuntimeError: CUDA out of memory. Tried to allocate 724.00 MiB (GPU 0; 22.20 GiB total capacity; 4.52 GiB already allocated; 457.12 MiB free; 4.66 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+    param.data = param.data.to(torch.float32)
+RuntimeError: CUDA out of memory. Tried to allocate 724.00 MiB (GPU 0; 22.20 GiB total capacity; 4.52 GiB already allocated; 457.12 MiB free; 4.66 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 75, in <module>
+    fine_tuning = SFTTrainer(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 176, in __init__
+    model = prepare_model_for_kbit_training(model, **preprare_model_kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/peft/utils/other.py", line 103, in prepare_model_for_kbit_training
+    param.data = param.data.to(torch.float32)
+RuntimeError: CUDA out of memory. Tried to allocate 724.00 MiB (GPU 0; 22.20 GiB total capacity; 4.52 GiB already allocated; 453.12 MiB free; 4.66 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 75, in <module>
+    fine_tuning = SFTTrainer(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 176, in __init__
+    model = prepare_model_for_kbit_training(model, **preprare_model_kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/peft/utils/other.py", line 103, in prepare_model_for_kbit_training
+    param.data = param.data.to(torch.float32)
+RuntimeError: CUDA out of memory. Tried to allocate 724.00 MiB (GPU 0; 22.20 GiB total capacity; 4.52 GiB already allocated; 453.12 MiB free; 4.66 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 75, in <module>
+    fine_tuning = SFTTrainer(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 176, in __init__
+    model = prepare_model_for_kbit_training(model, **preprare_model_kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/peft/utils/other.py", line 103, in prepare_model_for_kbit_training
+    param.data = param.data.to(torch.float32)
+RuntimeError: CUDA out of memory. Tried to allocate 724.00 MiB (GPU 0; 22.20 GiB total capacity; 4.52 GiB already allocated; 93.12 MiB free; 4.66 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 75, in <module>
+    fine_tuning = SFTTrainer(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 176, in __init__
+    model = prepare_model_for_kbit_training(model, **preprare_model_kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/peft/utils/other.py", line 103, in prepare_model_for_kbit_training
+    param.data = param.data.to(torch.float32)
+RuntimeError: CUDA out of memory. Tried to allocate 724.00 MiB (GPU 0; 22.20 GiB total capacity; 4.52 GiB already allocated; 95.12 MiB free; 4.66 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 75, in <module>
+    fine_tuning = SFTTrainer(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 176, in __init__
+    model = prepare_model_for_kbit_training(model, **preprare_model_kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/peft/utils/other.py", line 103, in prepare_model_for_kbit_training
+    param.data = param.data.to(torch.float32)
+RuntimeError: CUDA out of memory. Tried to allocate 724.00 MiB (GPU 0; 22.20 GiB total capacity; 4.52 GiB already allocated; 93.12 MiB free; 4.66 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 75, in <module>
+    fine_tuning = SFTTrainer(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 176, in __init__
+    model = prepare_model_for_kbit_training(model, **preprare_model_kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/peft/utils/other.py", line 103, in prepare_model_for_kbit_training
+    param.data = param.data.to(torch.float32)
+RuntimeError: CUDA out of memory. Tried to allocate 724.00 MiB (GPU 0; 22.20 GiB total capacity; 4.52 GiB already allocated; 457.12 MiB free; 4.66 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 75, in <module>
+    fine_tuning = SFTTrainer(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 176, in __init__
+    model = prepare_model_for_kbit_training(model, **preprare_model_kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/peft/utils/other.py", line 103, in prepare_model_for_kbit_training
+    param.data = param.data.to(torch.float32)
+RuntimeError: CUDA out of memory. Tried to allocate 724.00 MiB (GPU 0; 22.20 GiB total capacity; 4.17 GiB already allocated; 71.12 MiB free; 4.30 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py:194: UserWarning: You didn't pass a `max_seq_length` argument to the SFTTrainer, this will default to 1024
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py:194: UserWarning: You didn't pass a `max_seq_length` argument to the SFTTrainer, this will default to 1024
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py:194: UserWarning: You didn't pass a `max_seq_length` argument to the SFTTrainer, this will default to 1024
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py:194: UserWarning: You didn't pass a `max_seq_length` argument to the SFTTrainer, this will default to 1024
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py:194: UserWarning: You didn't pass a `max_seq_length` argument to the SFTTrainer, this will default to 1024
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py:194: UserWarning: You didn't pass a `max_seq_length` argument to the SFTTrainer, this will default to 1024
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py:194: UserWarning: You didn't pass a `max_seq_length` argument to the SFTTrainer, this will default to 1024
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py:194: UserWarning: You didn't pass a `max_seq_length` argument to the SFTTrainer, this will default to 1024
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py:194: UserWarning: You didn't pass a `max_seq_length` argument to the SFTTrainer, this will default to 1024
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py:194: UserWarning: You didn't pass a `max_seq_length` argument to the SFTTrainer, this will default to 1024
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py:194: UserWarning: You didn't pass a `max_seq_length` argument to the SFTTrainer, this will default to 1024
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py:194: UserWarning: You didn't pass a `max_seq_length` argument to the SFTTrainer, this will default to 1024
+  warnings.warn(
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py:194: UserWarning: You didn't pass a `max_seq_length` argument to the SFTTrainer, this will default to 1024
+  warnings.warn(
+Detected kernel version 3.10.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py:194: UserWarning: You didn't pass a `max_seq_length` argument to the SFTTrainer, this will default to 1024
+  warnings.warn(
+libibverbs: Warning: couldn't load driver 'libvmw_pvrdma-rdmav34.so': libvmw_pvrdma-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'librxe-rdmav34.so': librxe-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libqedr-rdmav34.so': libqedr-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libocrdma-rdmav34.so': libocrdma-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libnes-rdmav34.so': libnes-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libmthca-rdmav34.so': libmthca-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libmlx4-rdmav34.so': libmlx4-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libipathverbs-rdmav34.so': libipathverbs-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libi40iw-rdmav34.so': libi40iw-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libhns-rdmav34.so': libhns-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libhfi1verbs-rdmav34.so': libhfi1verbs-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libcxgb4-rdmav34.so': libcxgb4-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libcxgb3-rdmav34.so': libcxgb3-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libbnxt_re-rdmav34.so': libbnxt_re-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libvmw_pvrdma-rdmav34.so': libvmw_pvrdma-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'librxe-rdmav34.so': librxe-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libqedr-rdmav34.so': libqedr-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libocrdma-rdmav34.so': libocrdma-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libnes-rdmav34.so': libnes-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libmthca-rdmav34.so': libmthca-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libvmw_pvrdma-rdmav34.so': libvmw_pvrdma-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'librxe-rdmav34.so': librxe-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libqedr-rdmav34.so': libqedr-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libmlx4-rdmav34.so': libmlx4-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libocrdma-rdmav34.so': libocrdma-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libipathverbs-rdmav34.so': libipathverbs-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libi40iw-rdmav34.so': libi40iw-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libhns-rdmav34.so': libhns-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libnes-rdmav34.so': libnes-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libhfi1verbs-rdmav34.so': libhfi1verbs-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libcxgb4-rdmav34.so': libcxgb4-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libcxgb3-rdmav34.so': libcxgb3-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libmthca-rdmav34.so': libmthca-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libbnxt_re-rdmav34.so': libbnxt_re-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libvmw_pvrdma-rdmav34.so': libvmw_pvrdma-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'librxe-rdmav34.so': librxe-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libqedr-rdmav34.so': libqedr-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libmlx4-rdmav34.so': libmlx4-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libocrdma-rdmav34.so': libocrdma-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libipathverbs-rdmav34.so': libipathverbs-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libnes-rdmav34.so': libnes-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libi40iw-rdmav34.so': libi40iw-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libhns-rdmav34.so': libhns-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libmthca-rdmav34.so': libmthca-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libhfi1verbs-rdmav34.so': libhfi1verbs-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libcxgb4-rdmav34.so': libcxgb4-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libcxgb3-rdmav34.so': libcxgb3-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libbnxt_re-rdmav34.so': libbnxt_re-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libmlx4-rdmav34.so': libmlx4-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libipathverbs-rdmav34.so': libipathverbs-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libi40iw-rdmav34.so': libi40iw-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libhns-rdmav34.so': libhns-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libhfi1verbs-rdmav34.so': libhfi1verbs-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libcxgb4-rdmav34.so': libcxgb4-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libcxgb3-rdmav34.so': libcxgb3-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libbnxt_re-rdmav34.so': libbnxt_re-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libvmw_pvrdma-rdmav34.so': libvmw_pvrdma-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'librxe-rdmav34.so': librxe-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libqedr-rdmav34.so': libqedr-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libocrdma-rdmav34.so': libocrdma-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libnes-rdmav34.so': libnes-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libmthca-rdmav34.so': libmthca-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libmlx4-rdmav34.so': libmlx4-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libipathverbs-rdmav34.so': libipathverbs-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libi40iw-rdmav34.so': libi40iw-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libhns-rdmav34.so': libhns-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libhfi1verbs-rdmav34.so': libhfi1verbs-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libcxgb4-rdmav34.so': libcxgb4-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libcxgb3-rdmav34.so': libcxgb3-rdmav34.so: cannot open shared object file: No such file or directory
+libibverbs: Warning: couldn't load driver 'libbnxt_re-rdmav34.so': libbnxt_re-rdmav34.so: cannot open shared object file: No such file or directory
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 86, in <module>
+    fine_tuning.train()
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 280, in train
+    output = super().train(*args, **kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/transformers/trainer.py", line 1537, in train
+    return inner_training_loop(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/transformers/trainer.py", line 1672, in _inner_training_loop
+    model, self.optimizer = self.accelerator.prepare(self.model, self.optimizer)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1213, in prepare
+    result = tuple(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1214, in <genexpr>
+    self._prepare_one(obj, first_pass=True, device_placement=d) for obj, d in zip(args, device_placement)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1094, in _prepare_one
+    return self.prepare_model(obj, device_placement=device_placement)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1324, in prepare_model
+    raise ValueError(
+ValueError: You can't train a model that has been loaded in 8-bit precision on a different device than the one you're training on. Make sure you loaded the model on the correct device using for example `device_map={'':torch.cuda.current_device() or device_map={'':torch.xpu.current_device()}
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 86, in <module>
+    fine_tuning.train()
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 280, in train
+    output = super().train(*args, **kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/transformers/trainer.py", line 1537, in train
+    return inner_training_loop(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/transformers/trainer.py", line 1672, in _inner_training_loop
+    model, self.optimizer = self.accelerator.prepare(self.model, self.optimizer)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1213, in prepare
+    result = tuple(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1214, in <genexpr>
+    self._prepare_one(obj, first_pass=True, device_placement=d) for obj, d in zip(args, device_placement)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1094, in _prepare_one
+    return self.prepare_model(obj, device_placement=device_placement)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1324, in prepare_model
+    raise ValueError(
+ValueError: You can't train a model that has been loaded in 8-bit precision on a different device than the one you're training on. Make sure you loaded the model on the correct device using for example `device_map={'':torch.cuda.current_device() or device_map={'':torch.xpu.current_device()}
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 86, in <module>
+    fine_tuning.train()
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 280, in train
+    output = super().train(*args, **kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/transformers/trainer.py", line 1537, in train
+    return inner_training_loop(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/transformers/trainer.py", line 1672, in _inner_training_loop
+    model, self.optimizer = self.accelerator.prepare(self.model, self.optimizer)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1213, in prepare
+    result = tuple(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1214, in <genexpr>
+    self._prepare_one(obj, first_pass=True, device_placement=d) for obj, d in zip(args, device_placement)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1094, in _prepare_one
+    return self.prepare_model(obj, device_placement=device_placement)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1324, in prepare_model
+    raise ValueError(
+ValueError: You can't train a model that has been loaded in 8-bit precision on a different device than the one you're training on. Make sure you loaded the model on the correct device using for example `device_map={'':torch.cuda.current_device() or device_map={'':torch.xpu.current_device()}
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 86, in <module>
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 86, in <module>
+    fine_tuning.train()
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 280, in train
+    output = super().train(*args, **kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/transformers/trainer.py", line 1537, in train
+    return inner_training_loop(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/transformers/trainer.py", line 1672, in _inner_training_loop
+    model, self.optimizer = self.accelerator.prepare(self.model, self.optimizer)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1213, in prepare
+    result = tuple(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1214, in <genexpr>
+    self._prepare_one(obj, first_pass=True, device_placement=d) for obj, d in zip(args, device_placement)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1094, in _prepare_one
+    return self.prepare_model(obj, device_placement=device_placement)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1324, in prepare_model
+    raise ValueError(
+ValueError: You can't train a model that has been loaded in 8-bit precision on a different device than the one you're training on. Make sure you loaded the model on the correct device using for example `device_map={'':torch.cuda.current_device() or device_map={'':torch.xpu.current_device()}
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 86, in <module>
+    fine_tuning.train()
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 280, in train
+    output = super().train(*args, **kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/transformers/trainer.py", line 1537, in train
+    return inner_training_loop(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/transformers/trainer.py", line 1672, in _inner_training_loop
+    model, self.optimizer = self.accelerator.prepare(self.model, self.optimizer)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1213, in prepare
+    result = tuple(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1214, in <genexpr>
+    self._prepare_one(obj, first_pass=True, device_placement=d) for obj, d in zip(args, device_placement)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1094, in _prepare_one
+    return self.prepare_model(obj, device_placement=device_placement)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/accelerate/accelerator.py", line 1324, in prepare_model
+    raise ValueError(
+ValueError: You can't train a model that has been loaded in 8-bit precision on a different device than the one you're training on. Make sure you loaded the model on the correct device using for example `device_map={'':torch.cuda.current_device() or device_map={'':torch.xpu.current_device()}
+Traceback (most recent call last):
+  File "/home1/ais02/LoRA/train.py", line 86, in <module>
+    fine_tuning.train()
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/trl/trainer/sft_trainer.py", line 280, in train
+WARNING:torch.distributed.elastic.multiprocessing.api:Sending process 20435 closing signal SIGTERM
+WARNING:torch.distributed.elastic.multiprocessing.api:Sending process 20438 closing signal SIGTERM
+WARNING:torch.distributed.elastic.multiprocessing.api:Sending process 20929 closing signal SIGTERM
+WARNING:torch.distributed.elastic.multiprocessing.api:Sending process 44320 closing signal SIGTERM
+ERROR:torch.distributed.elastic.multiprocessing.api:failed (exitcode: 1) local_rank: 0 (pid: 44317) of binary: /home1/ais02/anaconda3/envs/torch/bin/python
+WARNING:torch.distributed.elastic.multiprocessing.api:Sending process 14882 closing signal SIGTERM
+WARNING:torch.distributed.elastic.multiprocessing.api:Sending process 14883 closing signal SIGTERM
+WARNING:torch.distributed.elastic.multiprocessing.api:Sending process 14884 closing signal SIGTERM
+WARNING:torch.distributed.elastic.multiprocessing.api:Sending process 52772 closing signal SIGTERM
+WARNING:torch.distributed.elastic.multiprocessing.api:Sending process 53819 closing signal SIGTERM
+WARNING:torch.distributed.elastic.multiprocessing.api:Sending process 53820 closing signal SIGTERM
+WARNING:torch.distributed.elastic.multiprocessing.api:Sending process 28930 closing signal SIGTERM
+WARNING:torch.distributed.elastic.multiprocessing.api:Sending process 28932 closing signal SIGTERM
+WARNING:torch.distributed.elastic.multiprocessing.api:Sending process 23290 closing signal SIGTERM
+WARNING:torch.distributed.elastic.multiprocessing.api:Sending process 23292 closing signal SIGTERM
+ERROR:torch.distributed.elastic.multiprocessing.api:failed (exitcode: 1) local_rank: 1 (pid: 20436) of binary: /home1/ais02/anaconda3/envs/torch/bin/python
+ERROR:torch.distributed.elastic.multiprocessing.api:failed (exitcode: 1) local_rank: 1 (pid: 52773) of binary: /home1/ais02/anaconda3/envs/torch/bin/python
+ERROR:torch.distributed.elastic.multiprocessing.api:failed (exitcode: 1) local_rank: 0 (pid: 20928) of binary: /home1/ais02/anaconda3/envs/torch/bin/python
+ERROR:torch.distributed.elastic.multiprocessing.api:failed (exitcode: 1) local_rank: 0 (pid: 53818) of binary: /home1/ais02/anaconda3/envs/torch/bin/python
+ERROR:torch.distributed.elastic.multiprocessing.api:failed (exitcode: 1) local_rank: 1 (pid: 28931) of binary: /home1/ais02/anaconda3/envs/torch/bin/python
+ERROR:torch.distributed.elastic.multiprocessing.api:failed (exitcode: 1) local_rank: 1 (pid: 23291) of binary: /home1/ais02/anaconda3/envs/torch/bin/python
+ERROR:torch.distributed.elastic.multiprocessing.api:failed (exitcode: 1) local_rank: 3 (pid: 14885) of binary: /home1/ais02/anaconda3/envs/torch/bin/python
+Traceback (most recent call last):
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+Traceback (most recent call last):
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/runpy.py", line 87, in _run_code
+Traceback (most recent call last):
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    exec(code, run_globals)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 765, in <module>
+    return _run_code(code, main_globals, None,
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/runpy.py", line 87, in _run_code
+Traceback (most recent call last):
+    exec(code, run_globals)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 765, in <module>
+    return _run_code(code, main_globals, None,
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/runpy.py", line 87, in _run_code
+Traceback (most recent call last):
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    exec(code, run_globals)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 765, in <module>
+    return _run_code(code, main_globals, None,
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/runpy.py", line 87, in _run_code
+    return _run_code(code, main_globals, None,
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/runpy.py", line 87, in _run_code
+Traceback (most recent call last):
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    exec(code, run_globals)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 765, in <module>
+    main()
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 345, in wrapper
+    exec(code, run_globals)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 765, in <module>
+    main()
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 345, in wrapper
+    return _run_code(code, main_globals, None,
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/runpy.py", line 87, in _run_code
+    return f(*args, **kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 761, in main
+    main()
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 345, in wrapper
+    exec(code, run_globals)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 765, in <module>
+    return f(*args, **kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 761, in main
+    main()
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 345, in wrapper
+    return f(*args, **kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 761, in main
+Traceback (most recent call last):
+    main()
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 345, in wrapper
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    run(args)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 752, in run
+    return f(*args, **kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 761, in main
+    return f(*args, **kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 761, in main
+    main()
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 345, in wrapper
+    return _run_code(code, main_globals, None,
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/runpy.py", line 87, in _run_code
+    run(args)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 752, in run
+    exec(code, run_globals)
+    run(args)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 752, in run
+    return f(*args, **kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 761, in main
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 765, in <module>
+Traceback (most recent call last):
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    elastic_launch(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 131, in __call__
+    run(args)
+    run(args)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 752, in run
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 245, in launch_agent
+    return _run_code(code, main_globals, None,
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/runpy.py", line 87, in _run_code
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 752, in run
+    elastic_launch(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 131, in __call__
+    exec(code, run_globals)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 765, in <module>
+    raise ChildFailedError(
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 245, in launch_agent
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+train.py FAILED
+------------------------------------------------------------
+Failures:
+[1]:
+  time      : 2023-12-21_18:22:47
+  host      : n070.hpc
+  rank      : 11 (local_rank: 3)
+  exitcode  : 1 (pid: 53821)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2023-12-21_18:22:47
+  host      : n070.hpc
+  rank      : 8 (local_rank: 0)
+  exitcode  : 1 (pid: 53818)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
+    main()
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 345, in wrapper
+    elastic_launch(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 131, in __call__
+    run(args)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 752, in run
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 245, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+train.py FAILED
+------------------------------------------------------------
+Failures:
+[1]:
+  time      : 2023-12-21_18:22:47
+  host      : n080.hpc
+  rank      : 30 (local_rank: 2)
+  exitcode  : 1 (pid: 20437)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2023-12-21_18:22:47
+  host      : n080.hpc
+  rank      : 29 (local_rank: 1)
+  exitcode  : 1 (pid: 20436)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
+    elastic_launch(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 131, in __call__
+    return f(*args, **kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 761, in main
+    raise ChildFailedError(
+    elastic_launch(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 131, in __call__
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+train.py FAILED
+------------------------------------------------------------
+Failures:
+[1]:
+  time      : 2023-12-21_18:22:47
+  host      : n071.hpc
+  rank      : 13 (local_rank: 1)
+  exitcode  : 1 (pid: 44318)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+[2]:
+  time      : 2023-12-21_18:22:47
+  host      : n071.hpc
+  rank      : 14 (local_rank: 2)
+  exitcode  : 1 (pid: 44319)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2023-12-21_18:22:47
+  host      : n071.hpc
+  rank      : 12 (local_rank: 0)
+  exitcode  : 1 (pid: 44317)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 245, in launch_agent
+============================================================
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 245, in launch_agent
+    main()
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 345, in wrapper
+    raise ChildFailedError(
+    elastic_launch(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 131, in __call__
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+train.py FAILED
+------------------------------------------------------------
+Failures:
+[1]:
+  time      : 2023-12-21_18:22:47
+  host      : n078.hpc
+  rank      : 23 (local_rank: 3)
+  exitcode  : 1 (pid: 28933)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2023-12-21_18:22:47
+  host      : n078.hpc
+  rank      : 21 (local_rank: 1)
+  exitcode  : 1 (pid: 28931)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+train.py FAILED
+------------------------------------------------------------
+Failures:
+[1]:
+  time      : 2023-12-21_18:22:47
+  host      : n069.hpc
+  rank      : 6 (local_rank: 2)
+  exitcode  : 1 (pid: 52774)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+[2]:
+  time      : 2023-12-21_18:22:47
+  host      : n069.hpc
+  rank      : 7 (local_rank: 3)
+  exitcode  : 1 (pid: 52775)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2023-12-21_18:22:47
+  host      : n069.hpc
+  rank      : 5 (local_rank: 1)
+  exitcode  : 1 (pid: 52773)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
+============================================================
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 245, in launch_agent
+    return f(*args, **kwargs)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 761, in main
+    run(args)
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+train.py FAILED
+------------------------------------------------------------
+Failures:
+[1]:
+  time      : 2023-12-21_18:22:47
+  host      : n072.hpc
+  rank      : 18 (local_rank: 2)
+  exitcode  : 1 (pid: 20930)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+[2]:
+  time      : 2023-12-21_18:22:47
+  host      : n072.hpc
+  rank      : 19 (local_rank: 3)
+  exitcode  : 1 (pid: 20931)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2023-12-21_18:22:47
+  host      : n072.hpc
+  rank      : 16 (local_rank: 0)
+  exitcode  : 1 (pid: 20928)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 752, in run
+============================================================
+    run(args)
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/run.py", line 752, in run
+    elastic_launch(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 131, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 245, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+train.py FAILED
+------------------------------------------------------------
+Failures:
+  <NO_OTHER_FAILURES>
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2023-12-21_18:22:47
+  host      : n079.hpc
+  rank      : 27 (local_rank: 3)
+  exitcode  : 1 (pid: 14885)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
+    elastic_launch(
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 131, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home1/ais02/anaconda3/envs/torch/lib/python3.9/site-packages/torch/distributed/launcher/api.py", line 245, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+train.py FAILED
+------------------------------------------------------------
+Failures:
+[1]:
+  time      : 2023-12-21_18:22:47
+  host      : n068.hpc
+  rank      : 3 (local_rank: 3)
+  exitcode  : 1 (pid: 23293)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2023-12-21_18:22:47
+  host      : n068.hpc
+  rank      : 1 (local_rank: 1)
+  exitcode  : 1 (pid: 23291)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
+srun: error: n071: task 3: Exited with exit code 1
+srun: error: n070: task 2: Exited with exit code 1
+srun: error: n069: task 1: Exited with exit code 1
+srun: error: n078: task 5: Exited with exit code 1
+srun: error: n068: task 0: Exited with exit code 1
+srun: error: n079: task 6: Exited with exit code 1
+srun: error: n072: task 4: Exited with exit code 1
+srun: error: n080: task 7: Exited with exit code 1
